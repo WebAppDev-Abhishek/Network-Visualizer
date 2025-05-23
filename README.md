@@ -134,3 +134,12 @@ Hey fellow developers! 👋 Looking for an exciting project to contribute to? Th
 Let's make this tool even more powerful together! Your contributions can help shape the future of network visualization. 🌟
 
 *"The best way to predict the future is to implement it." - Alan Kay* 
+![screencapture-localhost-3000-2025-05-23-20_25_16](https://github.com/user-attachments/assets/bb219a83-5aba-421c-a638-aeaad440ddcf)
+
+![screencapture-localhost-3000-2025-05-23-20_27_26](https://github.com/user-attachments/assets/1b2df723-1fe9-436d-9e31-e048390d3518)
+
+![screencapture-localhost-3000-2025-05-23-20_30_36](https://github.com/user-attachments/assets/15cac481-a164-4efe-b9e1-bd90bff5edb8)
+
+![screencapture-localhost-3000-2025-05-23-20_41_37](https://github.com/user-attachments/assets/941411d7-7590-4569-b5b0-0e9d66244525)
+
+
